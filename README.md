@@ -1,7 +1,7 @@
 # IITMDCSE-X-MASAI-PROJECT
 **Tic-Tac-Toe**
 
-This is a Python-based implementation of the classic Tic-Tac-Toe game featuring a Player vs Bot (PvB) mode. Challenge the bot and see if you can outsmart it in this timeless game!
+This is a html implementation of the classic Tic-Tac-Toe game featuring a Player vs Bot (PvB) mode. Challenge the bot and see if you can outsmart it in this timeless game!
 
 **Features**
 
